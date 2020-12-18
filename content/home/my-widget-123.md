@@ -1,8 +1,8 @@
 ---
 widget: experience
-widget_id: my-widget-123
+widget_id: experience:Experience
 headless: true
-weight: 10
+weight: 20
 active: true
 design:
   columns: "2"
