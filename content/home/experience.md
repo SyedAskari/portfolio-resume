@@ -42,11 +42,10 @@ experience:
     date_start: '2016-01-01'
     date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
-      - title: Tanta
+    
+     - title: Tanta
     company: University XY
-    company_url: ''
-    location: California
     date_start: '2015-01-01'
     date_end: '2015-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Taught electronic engineering and researched semiconductor phffysics.
 ---
