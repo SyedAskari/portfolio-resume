@@ -3,6 +3,7 @@ widget: experience
 widget_id: experience
 headless: true
 weight: 21
+title: Work Experience
 active: true
 design:
   columns: "2"
