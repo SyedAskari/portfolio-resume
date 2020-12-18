@@ -1,6 +1,7 @@
 ---
 title: Syed Askari
 role: Software Developer
+avatar_filename: profile.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
