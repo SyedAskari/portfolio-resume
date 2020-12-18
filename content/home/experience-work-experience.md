@@ -1,6 +1,6 @@
 ---
 widget: experience
-widget_id: "experience: Work Experience"
+widget_id: experience
 headless: true
 weight: 11
 active: true
