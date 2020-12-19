@@ -22,12 +22,15 @@ organizations:
     url: https://www.hft-stuttgart.com/
 education:
   courses:
+    - course: "Microsoft Certified: Azure Fundamentals"
+      institution: Microsoft
+      year: 2020
     - course: Master of Science (M.Sc.) in Software Technology
       institution: HFT Stuttgart (Germany)
       year: 2017
     - course: Bachelor of Science BS(CS) in Computer Science
       institution: COMSATS Institute of Information Technology (Pakistan)
-      year: 2009
+      year: 2014
 email: ""
 superuser: true
 highlight_name: false
