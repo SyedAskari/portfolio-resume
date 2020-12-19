@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: HFT Stuttgart
+    url: https://www.hft-stuttgart.com/
 education:
   courses:
     - course: PhD in Artificial Intelligence
