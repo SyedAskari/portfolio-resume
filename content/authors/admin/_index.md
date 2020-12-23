@@ -3,10 +3,7 @@ title: Syed Askari
 role: Software Developer
 avatar_filename: avatar.jpg.png
 bio: ""
-interests:
-  - Front-End Development
-  - Software Architecture
-  - Cloud Computing
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
