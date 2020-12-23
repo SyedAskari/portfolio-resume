@@ -22,10 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
+  - title: Senior Analyst
+    company: Avanade Deutschland GmbH (Joint Venture of Accenture & Microsoft)
+    company_url: 'https://www.avanade.com/'
+    location: Germany
     date_start: '2017-01-01'
     date_end: ''
     description: |2-
